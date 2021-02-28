@@ -16,11 +16,12 @@ social:
     icon_pack: fab
     link: https://twitter.com/OsagieOche
     display:
-      header: true
-  #- icon: graduation-cap
-    # icon_pack: fas
-    # link: https://osasotote.medium.com/
-   # display:
+      header: false
+      
+  - icon: medium
+     icon_pack: fab
+     link: https://osasotote.medium.com/
+    display:
       header: false
   - icon: github
     icon_pack: fab

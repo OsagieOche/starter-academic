@@ -5,7 +5,7 @@ avatar_filename: avatar.jpeg
 bio: My research interests Digital Health Accessibility & Ethics.
 interests:
   - Deep Learning
-  - Medicine
+  - Healthcare
   - Product Management
 social:
   - icon: envelope
@@ -18,7 +18,7 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://osasotote.medium.com/
     display:
       header: false
   - icon: github
@@ -28,8 +28,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/osagie-otote/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: MaHealth
+    url: ""
 education:
   courses:
     - course: PhD in Artificial Intelligence

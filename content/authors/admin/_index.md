@@ -18,8 +18,8 @@ social:
     display:
       header: false
       
-  - icon: medium
-     icon_pack: fab
+  - icon: graduation-cap
+     icon_pack: fas
      link: https://osasotote.medium.com/
     display:
       header: false

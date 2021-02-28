@@ -38,13 +38,12 @@ organizations:
     url: ""
 education:
   courses:
-  <!--
-    - course: PhD in Artificial Intelligence
+   ` - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012 
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2009 -->
+      year: 2009 `
     - course: Medicine & Surgery (MB;BS)
       institution: University of Ilorin
       year: 2019
@@ -52,7 +51,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Osagie is a medical doctor & product manager with huge interests in machine learning. He currently works as a product manager where he utilises his knowledge of medicine, machine learning and design to build wonderful healthcare products.
+`Osagie is a medical doctor & product manager with huge interests in machine learning. He currently works as a product manager where he utilises his knowledge of medicine, machine learning and design to build wonderful healthcare products.`
 
 Being an academic at heart, he is currently applying for a masters degree to further his knowledge. Over a number of months he has developed interests in several research areas including improving digital health accessibility and ethics .
 

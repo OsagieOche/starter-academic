@@ -7,6 +7,7 @@ interests:
   - Deep Learning
   - Healthcare
   - Product Management
+  - Mathematics
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,10 +17,10 @@ social:
     link: https://twitter.com/OsagieOche
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://osasotote.medium.com/
-    display:
+  #- icon: graduation-cap
+    # icon_pack: fas
+    # link: https://osasotote.medium.com/
+   # display:
       header: false
   - icon: github
     icon_pack: fab

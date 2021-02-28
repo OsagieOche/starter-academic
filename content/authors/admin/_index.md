@@ -37,16 +37,15 @@ organizations:
   - name: MaHealth
     url: ""
 education:
-   - courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012 
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009 
-    - course: Medicine & Surgery (MB;BS)
-      institution: University of Ilorin
-      year: 2019
+   - course: PhD in Artificial Intelligence
+     institution: Stanford University
+     year: 2012 
+   - course: MEng in Artificial Intelligence
+     institution: Massachusetts Institute of Technology
+     year: 2009 
+   - course: Medicine & Surgery (MB;BS)
+     institution: University of Ilorin
+     year: 2019
 email: ""
 superuser: true
 highlight_name: false

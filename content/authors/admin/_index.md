@@ -7,20 +7,19 @@ interests:
   - Deep Learning
   - Healthcare
   - Product Management
-  - Mathematics
+  - Ethics
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#ocheotote97@gmail.com
+    link: ocheotote97@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/OsagieOche
     display:
       header: false
-      
   - icon: graduation-cap
-     icon_pack: fas
-     link: https://osasotote.medium.com/
+    icon_pack: fas
+    link: https://osasotote.medium.com/
     display:
       header: false
   - icon: github
@@ -29,20 +28,26 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/osagie-otote/
+  - icon: medium
+    icon_pack: fab
+    link: https://osasotote.medium.com/
+    display:
+      header: false
 organizations:
   - name: MaHealth
     url: ""
 education:
   courses:
+  <!--
     - course: PhD in Artificial Intelligence
       institution: Stanford University
-      year: 2012
+      year: 2012 
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2009 -->
+    - course: Medicine & Surgery (MB;BS)
+      institution: University of Ilorin
+      year: 2019
 email: ""
 superuser: true
 highlight_name: false

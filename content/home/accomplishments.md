@@ -30,21 +30,21 @@ item:
   organization: Udacity
   organization_url: https://www.udacity.com
   title: AI Product Management
-  url: ""
-- certificate_url: https://www.edx.org
+  url: "https://www.udacity.com/course/ai-product-manager-nanodegree--nd088"
+- certificate_url: https://jovian.ai/certificate/MFQTEMRZGM
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
+  date_start: "2020-09"
+  description: EDV, Statistics.
+  organization: Jovian.ai
+  organization_url: https://www.jovian.ai
+  title: Data Analysis with Python: Zero to Pandas
+  url: https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas
+- certificate_url: https://www.udemy.com/certificate/UC-f1c1ac6c-de5a-4f57-9280-c7de4e74ad6f/
   date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  date_start: "2020-08"
+  description: "Linear Regression, Logistic Regression, Ensemble techniques e.t.c"
+  organization: Udemy
+  organization_url: https://www.udemy.com
+  title: 'Python for Data Science & Machine Learning'
+  url: "https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/"
 ---

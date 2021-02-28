@@ -36,7 +36,7 @@ item:
   date_start: "2020-09"
   description: EDV, Statistics.
   organization: Jovian.ai
-  organization_url: https://www.jovian.ai
+  organization_url: https://www.jovian.com
   title: 'Data Analysis with Python: Zero to Pandas'
   url: https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas
 - certificate_url: https://www.udemy.com/certificate/UC-f1c1ac6c-de5a-4f57-9280-c7de4e74ad6f/

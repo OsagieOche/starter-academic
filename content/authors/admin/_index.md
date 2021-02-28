@@ -47,6 +47,6 @@ highlight_name: false
 ---
 Osagie is a medical doctor & product manager with huge interests in machine learning. He currently works as a product manager where he utilises his knowledge of medicine, machine learning and design to build wonderful healthcare products.
 
-Being an academic at heart he is currently applying for a masters degree to further his knowledge. Over a number of months he has developed interests in several research areas including improving digital health accessibility and ethics .
+Being an academic at heart, he is currently applying for a masters degree to further his knowledge. Over a number of months he has developed interests in several research areas including improving digital health accessibility and ethics .
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://docs.google.com/document/d/1MncxZLJI5s1k-Y4G7_Ii06Ft0SY4rBdywrNy8u6J-bY/edit" "newtab" >}}resumé{{< /staticref >}}.
